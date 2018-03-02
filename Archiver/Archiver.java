@@ -7,6 +7,9 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 public class Archiver {
+
+
+    ///Users/ichimukuren/Documents/arch.rtf
     public static void main(String[] args) throws Exception{
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Введите полный путь файла-архива:");
